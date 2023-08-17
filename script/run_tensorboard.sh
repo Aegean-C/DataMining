@@ -1,0 +1,1 @@
+nohup tensorboard --logdir='tensorboard_logs' --host=10.20.0.21 > ./nohup_tensorboard.out 2>&1 &
